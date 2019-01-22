@@ -1,5 +1,5 @@
 # Iain Laird
-#### Portfolio and blog
+#### Online Portfolio
 
 ## Curriculum Vitae
 [PDF](https://www.dropbox.com/s/njlaf29s41b27py/CV.pdf?dl=0)  
