@@ -2,8 +2,7 @@
 #### Online Portfolio
 
 ## Curriculum Vitae
-[PDF](https://www.dropbox.com/s/njlaf29s41b27py/CV.pdf?dl=0)  
-[ODT](https://www.dropbox.com/s/9ceb0ylsb3a6fsw/CV.odt?dl=0)
+[PDF](https://www.dropbox.com/s/g8hzwpxf1qaltgk/CV.pdf?dl=0)
 
 ## Projects
 - C-Based Logic Gate Simulator
