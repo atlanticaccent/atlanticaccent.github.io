@@ -1,7 +1,7 @@
 # Iain Laird
 
 ## Curriculum Vitae
-[PDF](https://www.dropbox.com/s/g8hzwpxf1qaltgk/CV.pdf?dl=0)  
+[PDF](CV.pdf)  
 [Markdown](CV.md)  
 
 ## Projects
