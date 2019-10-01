@@ -1,5 +1,4 @@
 # Iain Laird
-#### Online Portfolio
 
 ## Curriculum Vitae
 [PDF](https://www.dropbox.com/s/g8hzwpxf1qaltgk/CV.pdf?dl=0)  
@@ -16,3 +15,7 @@
   - Built in 3 days using JavaScript and the Phaser 2 CE Engine
   - [Github source](https://github.com/BigBossErndog/ludumdare43)
   - [Play it here](https://www.newgrounds.com/portal/view/721240)
+
+## Blog posts
+- Grinding Gears, the FreeAgent Engineering Blog
+  - [From Computer Science student to Software Engineering intern](https://engineering.freeagent.com/2019/09/02/from-computer-science-student-to-software-engineering-intern/)
